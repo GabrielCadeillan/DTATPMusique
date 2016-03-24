@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\TPMusique\MusicData\obj\Debug\MusicData.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\TPMusique\MusicData\bin\Debug\MusicData.dll
+D:\VisualStudioProjects\TPMusique\MusicData\bin\Debug\MusicData.pdb
+D:\VisualStudioProjects\TPMusique\MusicData\obj\Debug\MusicData.dll
+D:\VisualStudioProjects\TPMusique\MusicData\obj\Debug\MusicData.pdb

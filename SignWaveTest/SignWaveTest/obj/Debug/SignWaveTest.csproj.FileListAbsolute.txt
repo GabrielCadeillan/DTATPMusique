@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.exe.config
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.exe
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.pdb
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.exe
+D:\VisualStudioProjects\TPMusique\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.pdb

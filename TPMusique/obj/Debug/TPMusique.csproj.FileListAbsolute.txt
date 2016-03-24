@@ -1,0 +1,2 @@
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\TPMusique.exe.config
+D:\VisualStudioProjects\TPMusique\TPMusique\obj\Debug\TPMusique.csprojResolveAssemblyReference.cache

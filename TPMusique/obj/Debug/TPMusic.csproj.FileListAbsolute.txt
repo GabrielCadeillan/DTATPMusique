@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\TPMusique\TPMusique\obj\Debug\TPMusic.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\TPMusique.exe.config
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\TPMusique.exe
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\TPMusique.pdb
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\MusicData.dll
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\SignWaveTest.exe
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\MusicData.pdb
+D:\VisualStudioProjects\TPMusique\TPMusique\bin\Debug\SignWaveTest.pdb
+D:\VisualStudioProjects\TPMusique\TPMusique\obj\Debug\TPMusique.exe
+D:\VisualStudioProjects\TPMusique\TPMusique\obj\Debug\TPMusique.pdb
