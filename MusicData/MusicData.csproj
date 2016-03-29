@@ -47,7 +47,7 @@
     <Compile Include="IPlayMusic.cs" />
     <Compile Include="MusicStyle\Dubstep.cs" />
     <Compile Include="MusicStyle\HipHop.cs" />
-    <Compile Include="MusicStyle\IStyle.cs" />
+    <Compile Include="MusicStyle\ISecondsConverter.cs" />
     <Compile Include="MusicStyle\MusicStyle.cs" />
     <Compile Include="MusicStyle\_60BPMStyle.cs" />
     <Compile Include="Note.cs" />

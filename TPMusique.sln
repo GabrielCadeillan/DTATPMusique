@@ -35,15 +35,15 @@ Global
 		SccNumberOfProjects = 4
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://formationgabrieldta1.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SignWaveTest\\SignWaveTest\\SignWaveTest.csproj
-		SccProjectName1 = SignWaveTest/SignWaveTest
-		SccLocalPath1 = SignWaveTest\\SignWaveTest
-		SccProjectUniqueName2 = TPMusique\\TPMusic.csproj
-		SccProjectName2 = TPMusique
-		SccLocalPath2 = TPMusique
-		SccProjectUniqueName3 = MusicData\\MusicData.csproj
-		SccProjectName3 = MusicData
-		SccLocalPath3 = MusicData
+		SccProjectUniqueName0 = TPMusique\\TPMusic.csproj
+		SccProjectName0 = TPMusique
+		SccLocalPath0 = TPMusique
+		SccProjectUniqueName1 = MusicData\\MusicData.csproj
+		SccProjectName1 = MusicData
+		SccLocalPath1 = MusicData
+		SccProjectUniqueName2 = SignWaveTest\\SignWaveTest\\SignWaveTest.csproj
+		SccProjectName2 = SignWaveTest/SignWaveTest
+		SccLocalPath2 = SignWaveTest\\SignWaveTest
+		SccLocalPath3 = .
 	EndGlobalSection
 EndGlobal

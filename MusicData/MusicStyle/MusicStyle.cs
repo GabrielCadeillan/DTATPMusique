@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MusicData.MusicStyle
 {
+    /// <summary>
+    /// A music style has a name, a bpm (contained in a ranged defined by children), and define a way to convert beat to seconds.
+    /// </summary>
     abstract public class MusicStyle : ISecondsConverter
     {
         public string Name { get; protected set; }

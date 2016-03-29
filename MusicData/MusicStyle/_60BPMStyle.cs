@@ -9,6 +9,9 @@ namespace MusicData.MusicStyle
     public class _60BPMStyle : MusicStyle
     {
 
+        /// <summary>
+        /// A real-time music style (1 beat = 1 second)
+        /// </summary>
         public _60BPMStyle() : base("60BPM", 60, 60)
         {
         }

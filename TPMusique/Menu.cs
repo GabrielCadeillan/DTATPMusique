@@ -12,8 +12,6 @@ namespace TPMusic
     static class Menu
     {
         public static bool Muted = false;
-        //public static NoteTest test = new NoteTest();
-        //public static MusicData.Song song = new MusicData.Song();
 
         /// <summary>
         /// Affiche le menu principal dans la console
@@ -39,12 +37,6 @@ namespace TPMusic
                     case "2":
                         PlayTrack(GetRecordedTrack());
                         break;
-                    /*case "3":
-                        JouerChanson(song);
-                        break;*/
-                    /*case "4":
-                        Console.WriteLine("Désolé pas implémenté encore :'(");
-                        break;*/
                     default:
                         break;
                 }
@@ -118,28 +110,6 @@ namespace TPMusic
                 Console.Out.WriteLine(n.MaFrequence);
             }
 
-            /*Console.Out.WriteLine("Voulez vous jouer la piste que vous avez tapée ?");
-            string reponse = Console.In.ReadLine();
-            if (reponse == "o")
-            {
-                JouerPiste(track);
-            }
-            else
-            {
-                Console.Out.WriteLine("Comme vous voulez");
-            }*/
-
-           /* Console.Out.WriteLine("Voulez vous ajouter la piste à la chanson ?");
-            string reponseChanson = Console.In.ReadLine();
-            if (reponseChanson == "o")
-            {
-                song.Tracks.Add(track);
-            }
-            else
-            {
-                Console.Out.WriteLine("Comme vous voulez");
-            }*/
-
             Console.Out.WriteLine("Voulez vous enregistrer la piste ?");
             if (Console.In.ReadLine() == "o")
             {
@@ -205,11 +175,6 @@ namespace TPMusic
             {
                 System.IO.Directory.CreateDirectory(AppDomain.CurrentDomain.BaseDirectory + "/MyTrack");
             }
-            /*if (!System.IO.File.Exists(AppDomain.CurrentDomain.BaseDirectory + "/MyTrack/track"))
-            {
-                System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory + "/MyTrack/track");
-            }*/
-
 
             IFormatter formatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
             System.IO.FileStream buffer = System.IO.File.Open(AppDomain.CurrentDomain.BaseDirectory + "/MyTrack/track", System.IO.FileMode.OpenOrCreate);

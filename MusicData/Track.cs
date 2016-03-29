@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace MusicData
 {
+    /// <summary>
+    /// A list of music notes. Must define a way to be played and is serializable.
+    /// </summary>
     [Serializable]
     public class Track : IPlayMusic, ISerializable
     {
@@ -36,6 +39,11 @@ namespace MusicData
             }
         }
 
+        /// <summary>
+        /// Use PlayMusic function on each note of the Track
+        /// </summary>
+        /// <param name="style">The style used to play Notes</param>
+        /// <param name="muted">No beep if true</param>
         public void PlayMusic(MusicStyle.MusicStyle style, bool muted)
         {
             foreach(Note note in Notes)
